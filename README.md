@@ -112,7 +112,6 @@ This recommendation is based on those movies which have the same genres as selec
 
 ##### Clone the project 
   ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
 
   ```
 
