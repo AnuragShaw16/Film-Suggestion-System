@@ -1,5 +1,5 @@
-# PMBD.COM
-PMBD is the project based on Machine Learning in whcih i have devloped a web application to demonstrate how various Machine Learning algorithms use for recommendation
+# Film-Suggestion-Recommendation
+This is the project based on Machine Learning in whcih i have devloped a web application to demonstrate how various Machine Learning algorithms use for recommendation
 
 Demonstrate the use of Recommendation System :
   1. Helps to Improve the on-site experience by creating dynamic recommendations for different kinds of audiences like Netflix does.
